@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.logo {
+  background: url('../public/spb.svg') no-repeat center center / contain;
+  width: 200px;
+  height: 200px;
+  background-color: #333;
+  padding: 25px;
+}
